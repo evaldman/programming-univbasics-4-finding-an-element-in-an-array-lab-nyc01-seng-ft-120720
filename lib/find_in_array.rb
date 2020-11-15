@@ -8,4 +8,4 @@ def find_element_index(array, value_to_find)
   end
 end
 
-puts find_element_index([1,2,3,4,5], 2)
+find_element_index([1,2,3,4,5], 2)
